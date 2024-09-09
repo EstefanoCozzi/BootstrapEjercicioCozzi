@@ -1,0 +1,5 @@
+/* Estilos personalizados para el carrusel */
+.carousel-item img {
+    height: 100vh; /* Hace que las imágenes ocupen el 100% de la altura de la ventana */
+    object-fit: cover; /* Asegura que las imágenes se ajusten correctamente al contenedor */
+}
